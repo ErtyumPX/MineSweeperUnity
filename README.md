@@ -8,11 +8,13 @@ Good old Mine Sweeper game in Unity, made with using basic functions of C#. Only
 ---
 
 <p align="center">
-  <img src="https://github.com/ErtyumPX/MineSweeperUnity/blob/main/Images/puzzle_image_one.jpeg">
+  <img src="Images/puzzle_image_one.JPG">
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github.com/ErtyumPX/MineSweeperUnity/blob/main/Images/puzzle_image_two.jpeg">
+  <img src="Images/puzzle_image_two.JPG">
 </p>
 
 ---
