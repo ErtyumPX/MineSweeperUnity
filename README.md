@@ -1,6 +1,4 @@
 # MineSweeperUnity
- 
-# MineSweeperUnity
 
 Good old Mine Sweeper game in Unity, made with using basic functions of C#. Only Vectors and Random Library is called from Unity's own packages.
 
